@@ -29,7 +29,7 @@ I student, hwo like to learn something new. I enterested in football, robotic te
  horse riding,baseball, Python.
 
 I try to find myself now, and i think I can do this in veb-development, studing JS,HTML&CSS.<br>
-Matbe I will realize myself in web-development
+Matbe I will realize myself in web-development.
 
 
 
