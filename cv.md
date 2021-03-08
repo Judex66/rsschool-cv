@@ -6,6 +6,11 @@ Personal information
 - E-mail:sermac2000@mail.ru
 - Age:20 (15.09.2000)
 ------
+Social
+# Social networks
+- [Telegram](https://t.me/Judex011)
+- [VK](https://vk.com/serko0)
+- [Instagram](https://www.instagram.com/mr.okres/)
 # Education
 - 2018-real time<br>
 FACULTY OF PHYSICS, BELARUSIAN STATE UNIVERSITY <br>
