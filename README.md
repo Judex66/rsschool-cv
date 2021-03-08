@@ -1,1 +1,1 @@
-https://Judex66.github.io/rsschool-cv/CVVV.html
+https://Judex66.github.io/rsschool-cv/CVV.html
