@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  font-size: 30px;
+  line-height: 1.5em;
+
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+section{
+color:black;
+  margin: 1em;
+  padding: 1em;
+}
+
+
+
+header {
+  padding: 1em;
+  text-align: center;
+  background: url("../asset2/img/fom3.jpg");
+}
+
+header section {
+  margin: 0 auto;
+  max-width: 640px;
+}
+
+header img {
+  border-radius: 100%;
+  max-width: 200px;
+}
+
+h1 {
+  text-transform: uppercase;
+  color:black;
+  margin: 1em 0;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
+h3, h4 {
+  font-weight: bold;
+}
+.skills .column {
+  -ms-flex: 0 0 50%%;
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+.skills .column ul > li:before {
+  content: "►";
+  padding-right: 0.5em;
+  color: #003333;
+}
+
+
+.educ span {
+  color: #003300;
+  text-decoration: underline;
+}
+
+
+
+
+
+
