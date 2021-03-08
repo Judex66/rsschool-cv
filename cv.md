@@ -29,6 +29,7 @@ Specialization: Physics and Mathematics
 - Mountain skiing
 - Sport
 - Rock climbing
+- Diving
 # About myself
 I student, hwo like to learn something new. I enterested in football, robotic technology,
  horse riding,baseball, Python.
