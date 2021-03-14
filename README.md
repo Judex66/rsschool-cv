@@ -1,3 +1,2 @@
-# rsschool-cv
-https://Judex66.github.io/rsschool-cv/cv
-https://Judex66.github.io/rsschool-cv/
+
+https://judex66.github.io/rsschool-cv/tree/wildlife/we%20are%20wild
